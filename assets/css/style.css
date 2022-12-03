@@ -1,0 +1,29 @@
+img {
+  display: block;
+}
+
+.header {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+}
+
+/* about */
+
+.section .about__1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 24px;
+}
+
+.section .about__2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 28px;
+}
+
+.section .about__3 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 32px;
+}
